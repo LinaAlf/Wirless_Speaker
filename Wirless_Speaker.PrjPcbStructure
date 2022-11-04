@@ -1,6 +1,6 @@
-Record=TopLevelDocument|FileName=Analog_System.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Analog_System.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Analog_System.SchDoc|FileName=SDCardButtonLed.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Analog_System.SchDoc|FileName=USB_UART_IMU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Analog_System.SchDoc|FileName=WirlessSpeakerTop.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Analog_System.SchDoc|FileName=WirlessSubSystem.SchDoc|SheetNumber=5
+Record=TopLevelDocument|FileName=WirlessSpeakerTop.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=WirlessSpeakerTop.SchDoc|Designator=Analog|SchDesignator=Analog|FileName=Analog_System.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Analog_System.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WirlessSpeakerTop.SchDoc|Designator=IO|SchDesignator=IO|FileName=SDCardButtonLed.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=SDCardButtonLed.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WirlessSpeakerTop.SchDoc|Designator=Power|SchDesignator=Power|FileName=PowerSupply.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=PowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WirlessSpeakerTop.SchDoc|Designator=SoC|SchDesignator=SoC|FileName=WirlessSubSystem.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=WirlessSubSystem.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WirlessSpeakerTop.SchDoc|Designator=U_USB_UART_IMU|SchDesignator=U_USB_UART_IMU|FileName=USB_UART_IMU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=USB_UART_IMU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

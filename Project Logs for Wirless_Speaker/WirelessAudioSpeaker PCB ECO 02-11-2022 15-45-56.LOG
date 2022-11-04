@@ -1,0 +1,1260 @@
+Removed Pin From Net: NetName=GND Pin=X200-6
+Removed Pin From Net: NetName=GND Pin=X200-10
+Removed Pin From Net: NetName=GND Pin=X200-S
+Removed Pin From Net: NetName=GND Pin=X200-S
+Removed Pin From Net: NetName=GND Pin=X200-S
+Removed Pin From Net: NetName=GND Pin=X200-S
+Change Component Kind : Designator=AN401 Old Kind=Net Tie (In BOM) New Kind=Standard
+Change Component Kind : Designator=AN400 Old Kind=Net Tie (In BOM) New Kind=Standard
+Added Component: Designator=200(X-DM3AT-SF-PEJM5)
+Add component (AddParameter): Name = "Added"; Value = "08.08.2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric Co Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "798-DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DM3AT-SF-PEJM5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C100(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C101(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C102(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C103(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C104(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C105(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C106(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C107(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C108(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C109(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C200(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C201(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C202(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C300(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C301(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C302(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C400(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C401(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C402(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C403(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C404(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C405(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C406(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C407(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C408(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C409(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C500(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C501(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C502(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C503(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C504(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=C505(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=DS201(LED-0603-BLUE)
+Add component (AddParameter): Name = "Added"; Value = "06.08.2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "150060BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "710-150060BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Blue"; VariantName = "[No Variations]"
+Added Component: Designator=DS202(LED-0603-BLUE)
+Add component (AddParameter): Name = "Added"; Value = "06.08.2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "150060BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "710-150060BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Blue"; VariantName = "[No Variations]"
+Added Component: Designator=DS203(LED-0603-BLUE)
+Add component (AddParameter): Name = "Added"; Value = "06.08.2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "150060BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "710-150060BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Blue"; VariantName = "[No Variations]"
+Added Component: Designator=F100(SMD-0603)
+Add component (AddParameter): Name = "Added"; Value = "02.02.2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/54/f0603f-778085.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "SF-0603F050-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "652-SF-0603F050-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.542"; VariantName = "[No Variations]"
+Added Component: Designator=Q100(SOT-23-6)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DUAL NPN SMALL SIGNAL SURFACE MOUNT TRANSISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/115/ds30222-71055.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "BC847BS-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "621-BC847BS-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.23"; VariantName = "[No Variations]"
+Added Component: Designator=R100(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R101(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R102(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R103(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R104(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R105(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R106(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R107(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R200(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R201(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R202(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R203(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R204(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R205(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R206(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R207(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R208(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R209(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R210(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R211(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R212(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R213(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R300(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R301(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R302(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R303(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R304(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R305(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R500(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R501(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R502(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R503(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=R504(R-0603)
+Add component (AddParameter): Name = "Added"; Value = "10.11.2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay / Beyschlag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MCU08050C*"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "BFH-Lager"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=S204(S-B3U-100X)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Ultra-small Tactile Switch (SMT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2610940.pdf?_ga=2.224737754.1712594784.1535524557-997716388.1524486210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OMRON ELECTRONIC COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "653-B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2.5x3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.772"; VariantName = "[No Variations]"
+Added Component: Designator=S205(S-B3U-100X)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Ultra-small Tactile Switch (SMT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2610940.pdf?_ga=2.224737754.1712594784.1535524557-997716388.1524486210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OMRON ELECTRONIC COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "653-B3U-1000P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2.5x3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.772"; VariantName = "[No Variations]"
+Added Component: Designator=U100(QFN-20-M)
+Add component (AddParameter): Name = "Added"; Value = "10.08.2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-220WGGD-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ftdichip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "FT231X Product Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "www.ftdichip.com/Products/ICs/FT231X.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 1.0, Feb-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "FT231XQ-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "895-FT231XQ-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "20-Pin Quad Flat No-Lead, 4 x 4 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "QFN-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2012"; VariantName = "[No Variations]"
+Added Component: Designator=U101(LGA-14)
+Add component (AddParameter): Name = "Added"; Value = "06.08.2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "ICM-40627"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "410-ICM-40627"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "3.58"; VariantName = "[No Variations]"
+Added Component: Designator=U103(ESD_QFN1610_2N_1K_2A)
+Add component (AddParameter): Name = "Added"; Value = "07.08.2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "ESDA7P120-1U1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "511-ESDA7P120-1U1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "ESD_QFN1610_2N_1K_2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.139"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U300(QFN16-3MM)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Low-Cost, PCM Class D Amplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/256/MAX98357A-MAX98357B-271244.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "MAX98357AETE+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "700-MAX98357AETE+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part-Number"; Value = "MAX98357AETE+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "2.03"; VariantName = "[No Variations]"
+Added Component: Designator=U400(ESP32PICOV3)
+Add component (AddParameter): Name = "Added"; Value = "08.08.2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://kr.mouser.com/datasheet/2/891/esp32-pico-v3_datasheet_en-1842685.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.04mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-PICO-V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "ESP32-PICO-V3-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mountig Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "356-ESP32-PICO-V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-PICO-V3?qs=GBLSl2Akirs311o8knsnZA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "356-ESP32-PICO-V3-02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "ESP32PICOV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "3.20"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SON65P300X300X100-9N-D
+Add Component: Footprint Not Found SOT95P270X145-5N
+Add Component: Footprint Not Found SOT95P280X145-5N
+Added Pin To Net: NetName=3V3 Pin=200-4
+Added Pin To Net: NetName=GND Pin=200-6
+Added Pin To Net: NetName=GND Pin=200-10
+Added Pin To Net: NetName=GND Pin=200-S
+Added Pin To Net: NetName=GND Pin=200-S
+Added Pin To Net: NetName=GND Pin=200-S
+Added Pin To Net: NetName=GND Pin=200-S
+Added Pin To Net: NetName=NetAN400_ANT1 Pin=AN400-ANT1
+Added Pin To Net: NetName=NetAN400_ANT2 Pin=AN401-2
+Added Pin To Net: NetName=GND Pin=C100-1
+Added Pin To Net: NetName=Vcc Pin=C100-2
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=Vcc Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C102-1
+Added Pin To Net: NetName=GND Pin=C103-1
+Added Pin To Net: NetName=NetC103_2 Pin=C103-2
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=NetC104_2 Pin=C104-2
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=NetC105_2 Pin=C105-2
+Added Pin To Net: NetName=GND Pin=C106-1
+Added Pin To Net: NetName=3V3 Pin=C106-2
+Added Pin To Net: NetName=GND Pin=C107-1
+Added Pin To Net: NetName=3V3 Pin=C107-2
+Added Pin To Net: NetName=GND Pin=C108-1
+Added Pin To Net: NetName=3V3 Pin=C108-2
+Added Pin To Net: NetName=GND Pin=C109-1
+Added Pin To Net: NetName=3V3 Pin=C109-2
+Added Pin To Net: NetName=GND Pin=C200-1
+Added Pin To Net: NetName=GND Pin=C201-1
+Added Pin To Net: NetName=3V3 Pin=C201-2
+Added Pin To Net: NetName=GND Pin=C202-1
+Added Pin To Net: NetName=3V3 Pin=C202-2
+Added Pin To Net: NetName=AGND Pin=C300-1
+Added Pin To Net: NetName=A_Vcc Pin=C300-2
+Added Pin To Net: NetName=A_Vcc Pin=C301-1
+Added Pin To Net: NetName=AGND Pin=C301-2
+Added Pin To Net: NetName=AGND Pin=C302-1
+Added Pin To Net: NetName=A_Vcc Pin=C302-2
+Added Pin To Net: NetName=GND Pin=C400-1
+Added Pin To Net: NetName=3V3 Pin=C400-2
+Added Pin To Net: NetName=GND Pin=C401-1
+Added Pin To Net: NetName=3V3 Pin=C401-2
+Added Pin To Net: NetName=GND Pin=C402-1
+Added Pin To Net: NetName=3V3 Pin=C402-2
+Added Pin To Net: NetName=GND Pin=C403-1
+Added Pin To Net: NetName=3V3 Pin=C403-2
+Added Pin To Net: NetName=GND Pin=C404-1
+Added Pin To Net: NetName=3V3 Pin=C404-2
+Added Pin To Net: NetName=GND Pin=C405-1
+Added Pin To Net: NetName=3V3 Pin=C405-2
+Added Pin To Net: NetName=GND Pin=C406-1
+Added Pin To Net: NetName=3V3 Pin=C406-2
+Added Pin To Net: NetName=GND Pin=C407-1
+Added Pin To Net: NetName=3V3 Pin=C407-2
+Added Pin To Net: NetName=NetAN400_ANT1 Pin=C408-2
+Added Pin To Net: NetName=GND Pin=C409-2
+Added Pin To Net: NetName=GND Pin=C500-1
+Added Pin To Net: NetName=3V3 Pin=C500-2
+Added Pin To Net: NetName=GND Pin=C501-1
+Added Pin To Net: NetName=USB_5V Pin=C501-2
+Added Pin To Net: NetName=GND Pin=C502-1
+Added Pin To Net: NetName=GND Pin=C503-1
+Added Pin To Net: NetName=NetC503_2 Pin=C503-2
+Added Pin To Net: NetName=GND Pin=C504-1
+Added Pin To Net: NetName=VBAT Pin=C504-2
+Added Pin To Net: NetName=GND Pin=C505-1
+Added Pin To Net: NetName=USB_5V Pin=C505-2
+Added Pin To Net: NetName=NetDS201_A Pin=DS201-A
+Added Pin To Net: NetName=GND Pin=DS201-K
+Added Pin To Net: NetName=NetDS202_A Pin=DS202-A
+Added Pin To Net: NetName=GND Pin=DS202-K
+Added Pin To Net: NetName=GND Pin=DS203-K
+Added Pin To Net: NetName=USB_5V Pin=F100-2
+Added Pin To Net: NetName=NetMK300_1 Pin=MK300-1
+Added Pin To Net: NetName=NetMK300_2 Pin=MK300-2
+Added Pin To Net: NetName=NetMK300_4 Pin=MK300-4
+Added Pin To Net: NetName=A_Vcc Pin=MK300-5
+Added Pin To Net: NetName=NetMK300_6 Pin=MK300-6
+Added Pin To Net: NetName=NetQ100_1 Pin=Q100-1
+Added Pin To Net: NetName=NetQ100_2 Pin=Q100-2
+Added Pin To Net: NetName=NetQ100_3 Pin=Q100-3
+Added Pin To Net: NetName=NetQ100_4 Pin=Q100-4
+Added Pin To Net: NetName=NetQ100_5 Pin=Q100-5
+Added Pin To Net: NetName=NetC103_2 Pin=R100-1
+Added Pin To Net: NetName=NetR100_2 Pin=R100-2
+Added Pin To Net: NetName=NetC104_2 Pin=R101-1
+Added Pin To Net: NetName=NetR101_2 Pin=R101-2
+Added Pin To Net: NetName=NetQ100_4 Pin=R102-1
+Added Pin To Net: NetName=NetQ100_2 Pin=R102-2
+Added Pin To Net: NetName=NetQ100_1 Pin=R103-1
+Added Pin To Net: NetName=NetQ100_5 Pin=R103-2
+Added Pin To Net: NetName=NetR104_1 Pin=R104-1
+Added Pin To Net: NetName=3V3 Pin=R104-2
+Added Pin To Net: NetName=NetR105_1 Pin=R105-1
+Added Pin To Net: NetName=3V3 Pin=R105-2
+Added Pin To Net: NetName=NetR106_1 Pin=R106-1
+Added Pin To Net: NetName=3V3 Pin=R106-2
+Added Pin To Net: NetName=NetR107_1 Pin=R107-1
+Added Pin To Net: NetName=3V3 Pin=R107-2
+Added Pin To Net: NetName=NetR200_1 Pin=R200-1
+Added Pin To Net: NetName=3V3 Pin=R200-2
+Added Pin To Net: NetName=NetR201_1 Pin=R201-1
+Added Pin To Net: NetName=3V3 Pin=R201-2
+Added Pin To Net: NetName=NetR202_1 Pin=R202-1
+Added Pin To Net: NetName=3V3 Pin=R202-2
+Added Pin To Net: NetName=NetR203_1 Pin=R203-1
+Added Pin To Net: NetName=3V3 Pin=R203-2
+Added Pin To Net: NetName=NetDS201_A Pin=R204-1
+Added Pin To Net: NetName=NetR204_2 Pin=R204-2
+Added Pin To Net: NetName=NetDS202_A Pin=R205-1
+Added Pin To Net: NetName=NetR205_2 Pin=R205-2
+Added Pin To Net: NetName=NetR206_2 Pin=R206-2
+Added Pin To Net: NetName=NetQ100_3 Pin=R207-1
+Added Pin To Net: NetName=3V3 Pin=R207-2
+Added Pin To Net: NetName=3V3 Pin=R208-2
+Added Pin To Net: NetName=3V3 Pin=R209-2
+Added Pin To Net: NetName=3V3 Pin=R210-2
+Added Pin To Net: NetName=3V3 Pin=R211-2
+Added Pin To Net: NetName=3V3 Pin=R212-2
+Added Pin To Net: NetName=NetQ100_3 Pin=R213-2
+Added Pin To Net: NetName=NetR300_1 Pin=R300-1
+Added Pin To Net: NetName=A_Vcc Pin=R300-2
+Added Pin To Net: NetName=NetR301_1 Pin=R301-1
+Added Pin To Net: NetName=A_Vcc Pin=R301-2
+Added Pin To Net: NetName=AGND Pin=R302-1
+Added Pin To Net: NetName=NetR300_1 Pin=R302-2
+Added Pin To Net: NetName=NetMK300_2 Pin=R303-1
+Added Pin To Net: NetName=A_Vcc Pin=R303-2
+Added Pin To Net: NetName=AGND Pin=R304-1
+Added Pin To Net: NetName=NetMK300_2 Pin=R304-2
+Added Pin To Net: NetName=AGND Pin=R305-1
+Added Pin To Net: NetName=NetMK300_6 Pin=R305-2
+Added Pin To Net: NetName=GND Pin=R500-1
+Added Pin To Net: NetName=GND Pin=R501-1
+Added Pin To Net: NetName=GND Pin=R502-1
+Added Pin To Net: NetName=VBAT Pin=R503-2
+Added Pin To Net: NetName=GND Pin=R504-1
+Added Pin To Net: NetName=NetR200_1 Pin=S200-2
+Added Pin To Net: NetName=NetR201_1 Pin=S201-2
+Added Pin To Net: NetName=NetR202_1 Pin=S202-2
+Added Pin To Net: NetName=NetR203_1 Pin=S203-2
+Added Pin To Net: NetName=NetQ100_3 Pin=S204-1
+Added Pin To Net: NetName=GND Pin=S204-2
+Added Pin To Net: NetName=GND Pin=S205-2
+Added Pin To Net: NetName=VBAT Pin=S500-3
+Added Pin To Net: NetName=NetSpeaker_1 Pin=Speaker-1
+Added Pin To Net: NetName=NetSpeaker_2 Pin=Speaker-2
+Added Pin To Net: NetName=NetU100_1 Pin=U100-1
+Added Pin To Net: NetName=GND Pin=U100-3
+Added Pin To Net: NetName=NetR101_2 Pin=U100-8
+Added Pin To Net: NetName=NetR100_2 Pin=U100-9
+Added Pin To Net: NetName=NetC105_2 Pin=U100-10
+Added Pin To Net: NetName=3V3 Pin=U100-11
+Added Pin To Net: NetName=Vcc Pin=U100-12
+Added Pin To Net: NetName=GND Pin=U100-13
+Added Pin To Net: NetName=NetU100_17 Pin=U100-17
+Added Pin To Net: NetName=NetQ100_4 Pin=U100-18
+Added Pin To Net: NetName=NetQ100_1 Pin=U100-19
+Added Pin To Net: NetName=3V3 Pin=U100-20
+Added Pin To Net: NetName=GND Pin=U100-21
+Added Pin To Net: NetName=GND Pin=U101-1
+Added Pin To Net: NetName=GND Pin=U101-2
+Added Pin To Net: NetName=GND Pin=U101-3
+Added Pin To Net: NetName=NetR106_1 Pin=U101-4
+Added Pin To Net: NetName=3V3 Pin=U101-5
+Added Pin To Net: NetName=GND Pin=U101-6
+Added Pin To Net: NetName=GND Pin=U101-7
+Added Pin To Net: NetName=3V3 Pin=U101-8
+Added Pin To Net: NetName=NetR107_1 Pin=U101-9
+Added Pin To Net: NetName=GND Pin=U101-10
+Added Pin To Net: NetName=GND Pin=U101-11
+Added Pin To Net: NetName=3V3 Pin=U101-12
+Added Pin To Net: NetName=NetR104_1 Pin=U101-13
+Added Pin To Net: NetName=NetR105_1 Pin=U101-14
+Added Pin To Net: NetName=GND Pin=U103-2
+Added Pin To Net: NetName=NetU300_1 Pin=U300-1
+Added Pin To Net: NetName=NetR300_1 Pin=U300-2
+Added Pin To Net: NetName=AGND Pin=U300-3
+Added Pin To Net: NetName=NetR301_1 Pin=U300-4
+Added Pin To Net: NetName=A_Vcc Pin=U300-7
+Added Pin To Net: NetName=A_Vcc Pin=U300-8
+Added Pin To Net: NetName=NetSpeaker_1 Pin=U300-9
+Added Pin To Net: NetName=NetSpeaker_2 Pin=U300-10
+Added Pin To Net: NetName=AGND Pin=U300-11
+Added Pin To Net: NetName=NetMK300_1 Pin=U300-14
+Added Pin To Net: NetName=AGND Pin=U300-15
+Added Pin To Net: NetName=NetMK300_4 Pin=U300-16
+Added Pin To Net: NetName=AGND Pin=U300-THERMAL
+Added Pin To Net: NetName=3V3 Pin=U400-1
+Added Pin To Net: NetName=3V3 Pin=U400-3
+Added Pin To Net: NetName=3V3 Pin=U400-4
+Added Pin To Net: NetName=NetR200_1 Pin=U400-5
+Added Pin To Net: NetName=NetR201_1 Pin=U400-6
+Added Pin To Net: NetName=NetR202_1 Pin=U400-7
+Added Pin To Net: NetName=NetR203_1 Pin=U400-8
+Added Pin To Net: NetName=NetR106_1 Pin=U400-12
+Added Pin To Net: NetName=NetR107_1 Pin=U400-13
+Added Pin To Net: NetName=NetR104_1 Pin=U400-14
+Added Pin To Net: NetName=NetR105_1 Pin=U400-15
+Added Pin To Net: NetName=NetMK300_1 Pin=U400-16
+Added Pin To Net: NetName=3V3 Pin=U400-19
+Added Pin To Net: NetName=NetQ100_3 Pin=U400-23
+Added Pin To Net: NetName=NetR204_2 Pin=U400-24
+Added Pin To Net: NetName=NetR205_2 Pin=U400-27
+Added Pin To Net: NetName=NetMK300_4 Pin=U400-34
+Added Pin To Net: NetName=3V3 Pin=U400-37
+Added Pin To Net: NetName=NetR206_2 Pin=U400-38
+Added Pin To Net: NetName=NetU300_1 Pin=U400-39
+Added Pin To Net: NetName=NetU100_17 Pin=U400-40
+Added Pin To Net: NetName=NetU100_1 Pin=U400-41
+Added Pin To Net: NetName=NetMK300_6 Pin=U400-42
+Added Pin To Net: NetName=3V3 Pin=U400-43
+Added Pin To Net: NetName=3V3 Pin=U400-46
+Added Pin To Net: NetName=GND Pin=U400-49
+Add Pin To Net: Unknown Pin: Pin U500-2
+Add Pin To Net: Unknown Pin: Pin U500-3
+Add Pin To Net: Unknown Pin: Pin U500-5
+Add Pin To Net: Unknown Pin: Pin U500-7
+Add Pin To Net: Unknown Pin: Pin U500-8
+Add Pin To Net: Unknown Pin: Pin U500-9
+Add Pin To Net: Unknown Pin: Pin U501-2
+Add Pin To Net: Unknown Pin: Pin U501-3
+Add Pin To Net: Unknown Pin: Pin U501-4
+Add Pin To Net: Unknown Pin: Pin U502-1
+Add Pin To Net: Unknown Pin: Pin U502-2
+Add Pin To Net: Unknown Pin: Pin U502-5
+Added Pin To Net: NetName=NetC103_2 Pin=X100-2
+Added Pin To Net: NetName=NetC104_2 Pin=X100-3
+Added Pin To Net: NetName=GND Pin=X100-5
+Added Pin To Net: NetName=GND Pin=X100-6
+Added Pin To Net: NetName=GND Pin=X100-7
+Added Pin To Net: NetName=VBAT Pin=X500-1
+Added Pin To Net: NetName=VBAT Pin=X500-3
+Added Pin To Net: NetName=Net200_2 Pin=200-2
+Added Pin To Net: NetName=Net200_2 Pin=R210-1
+Added Pin To Net: NetName=Net200_2 Pin=U400-20
+Added Net: Name=Net200_2
+Added Pin To Net: NetName=Net200_3 Pin=200-3
+Added Pin To Net: NetName=Net200_3 Pin=R211-1
+Added Pin To Net: NetName=Net200_3 Pin=U400-21
+Added Net: Name=Net200_3
+Added Pin To Net: NetName=Net200_5 Pin=200-5
+Added Pin To Net: NetName=Net200_5 Pin=R212-1
+Added Pin To Net: NetName=Net200_5 Pin=U400-17
+Added Net: Name=Net200_5
+Added Pin To Net: NetName=Net200_7 Pin=200-7
+Added Pin To Net: NetName=Net200_7 Pin=R213-1
+Added Pin To Net: NetName=Net200_7 Pin=U400-22
+Added Net: Name=Net200_7
+Added Pin To Net: NetName=Net200_9 Pin=200-9
+Added Pin To Net: NetName=Net200_9 Pin=R208-1
+Added Pin To Net: NetName=Net200_9 Pin=U400-10
+Added Net: Name=Net200_9
+Added Pin To Net: NetName=NetC102_2 Pin=C102-2
+Added Pin To Net: NetName=NetC102_2 Pin=F100-1
+Added Pin To Net: NetName=NetC102_2 Pin=U103-1
+Added Pin To Net: NetName=NetC102_2 Pin=X100-1
+Added Net: Name=NetC102_2
+Added Pin To Net: NetName=NetC200_2 Pin=C200-2
+Added Pin To Net: NetName=NetC200_2 Pin=Q100-6
+Added Pin To Net: NetName=NetC200_2 Pin=R209-1
+Added Pin To Net: NetName=NetC200_2 Pin=S205-1
+Added Pin To Net: NetName=NetC200_2 Pin=U400-9
+Added Net: Name=NetC200_2
+Added Pin To Net: NetName=NetC408_1 Pin=C408-1
+Added Pin To Net: NetName=NetC408_1 Pin=U400-2
+Added Net: Name=NetC408_1
+Added Pin To Net: NetName=NetC409_1 Pin=C409-1
+Added Pin To Net: NetName=NetC409_1 Pin=U400-26
+Added Net: Name=NetC409_1
+Added Pin To Net: NetName=NetDS203_A Pin=DS203-A
+Added Pin To Net: NetName=NetDS203_A Pin=R206-1
+Added Net: Name=NetDS203_A
+Added Pin To Net: NetName=NetR500_2 Pin=R500-2
+Added Net: Name=NetR500_2
+Added Pin To Net: NetName=NetR502_2 Pin=R502-2
+Added Net: Name=NetR502_2
+Added Pin To Net: NetName=NetR503_1 Pin=R503-1
+Added Pin To Net: NetName=NetR503_1 Pin=R504-2
+Added Pin To Net: NetName=NetR503_1 Pin=U400-11
+Added Net: Name=NetR503_1
+Added Pin To Net: NetName=VBAT_S Pin=C502-2
+Added Pin To Net: NetName=VBAT_S Pin=R501-2
+Added Pin To Net: NetName=VBAT_S Pin=S500-2
+Added Net: Name=VBAT_S
+Added Member To Class: ClassName=IO Member=Component 200 X-DM3AT-SF-PEJM5
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C100 4.7uF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C101 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C102 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C103 4.7pF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C104 4.7pF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C105 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C106 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C107 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C108 2.2uF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C109 100nF
+Added Member To Class: ClassName=IO Member=Component C200 1uF
+Added Member To Class: ClassName=IO Member=Component C201 100nF
+Added Member To Class: ClassName=IO Member=Component C202 4.7uF
+Added Member To Class: ClassName=Analog Member=Component C300 100nF
+Added Member To Class: ClassName=Analog Member=Component C301 100nF
+Added Member To Class: ClassName=Analog Member=Component C302 100nF
+Added Member To Class: ClassName=SoC Member=Component C400 100pF
+Added Member To Class: ClassName=SoC Member=Component C401 1uF
+Added Member To Class: ClassName=SoC Member=Component C402 100nF
+Added Member To Class: ClassName=SoC Member=Component C403 100nF
+Added Member To Class: ClassName=SoC Member=Component C404 100nF
+Added Member To Class: ClassName=SoC Member=Component C405 10uF
+Added Member To Class: ClassName=SoC Member=Component C406 1uF
+Added Member To Class: ClassName=SoC Member=Component C407 100nF
+Added Member To Class: ClassName=SoC Member=Component C408 4.7pF
+Added Member To Class: ClassName=SoC Member=Component C409 100nF
+Added Member To Class: ClassName=Power Member=Component C500 0.1uF
+Added Member To Class: ClassName=Power Member=Component C501 0.1uF
+Added Member To Class: ClassName=Power Member=Component C502 0.1uF
+Added Member To Class: ClassName=Power Member=Component C503 0.1uF
+Added Member To Class: ClassName=Power Member=Component C504 4.7uF
+Added Member To Class: ClassName=Power Member=Component C505 4.7uF
+Added Member To Class: ClassName=IO Member=Component DS201 150060BS75000
+Added Member To Class: ClassName=IO Member=Component DS202 150060BS75000
+Added Member To Class: ClassName=IO Member=Component DS203 150060BS75000
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component F100 SF-0603F050-2
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component Q100 BC847BS
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R100 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R101 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R102 100k
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R103 100k
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R104 4.7k
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R105 4.7k
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R106 10k
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R107 10k
+Added Member To Class: ClassName=IO Member=Component R200 10k
+Added Member To Class: ClassName=IO Member=Component R201 10k
+Added Member To Class: ClassName=IO Member=Component R202 10k
+Added Member To Class: ClassName=IO Member=Component R203 10k
+Added Member To Class: ClassName=IO Member=Component R204 1.2k
+Added Member To Class: ClassName=IO Member=Component R205 1.2k
+Added Member To Class: ClassName=IO Member=Component R206 1.2k
+Added Member To Class: ClassName=IO Member=Component R207 10k
+Added Member To Class: ClassName=IO Member=Component R208 4.7k
+Added Member To Class: ClassName=IO Member=Component R209 10k
+Added Member To Class: ClassName=IO Member=Component R210 10k
+Added Member To Class: ClassName=IO Member=Component R211 10k
+Added Member To Class: ClassName=IO Member=Component R212 10k
+Added Member To Class: ClassName=IO Member=Component R213 10k
+Added Member To Class: ClassName=Analog Member=Component R300 100k
+Added Member To Class: ClassName=Analog Member=Component R301 643k
+Added Member To Class: ClassName=Analog Member=Component R302 100k
+Added Member To Class: ClassName=Analog Member=Component R303 100k
+Added Member To Class: ClassName=Analog Member=Component R304 100k
+Added Member To Class: ClassName=Analog Member=Component R305 100k
+Added Member To Class: ClassName=Power Member=Component R500 400
+Added Member To Class: ClassName=Power Member=Component R501 10k
+Added Member To Class: ClassName=Power Member=Component R502 2K7
+Added Member To Class: ClassName=Power Member=Component R503 100k
+Added Member To Class: ClassName=Power Member=Component R504 100k
+Added Member To Class: ClassName=IO Member=Component S204 B3U-100P
+Added Member To Class: ClassName=IO Member=Component S205 B3U-100P
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component U100 FT231XQ-R
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component U101 ICM-40627
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component U103 ESDA7P120-1U1M
+Added Member To Class: ClassName=Analog Member=Component U300 MAX98357A
+Added Member To Class: ClassName=SoC Member=Component U400 U-ESP32-PICO-V3
+Add Class Member: Failed to add class member : Component U500 TPS2115ADRBR
+Add Class Member: Failed to add class member : Component U501 MCP73832T-2DCI_OT
+Add Class Member: Failed to add class member : Component U502 AP7347DQ-33W5-7
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU
