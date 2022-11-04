@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=200 NewDesignator=X200
+Add Component: Footprint Not Found SON65P300X300X100-9N-D
+Add Component: Footprint Not Found SOT95P270X145-5N
+Add Component: Footprint Not Found SOT95P280X145-5N
+Add Pin To Net: Unknown Pin: Pin U500-2
+Add Pin To Net: Unknown Pin: Pin U500-3
+Add Pin To Net: Unknown Pin: Pin U500-4
+Add Pin To Net: Unknown Pin: Pin U500-5
+Add Pin To Net: Unknown Pin: Pin U500-6
+Add Pin To Net: Unknown Pin: Pin U500-7
+Add Pin To Net: Unknown Pin: Pin U500-8
+Add Pin To Net: Unknown Pin: Pin U500-9
+Add Pin To Net: Unknown Pin: Pin U501-2
+Add Pin To Net: Unknown Pin: Pin U501-3
+Add Pin To Net: Unknown Pin: Pin U501-4
+Add Pin To Net: Unknown Pin: Pin U501-5
+Add Pin To Net: Unknown Pin: Pin U502-1
+Add Pin To Net: Unknown Pin: Pin U502-2
+Add Pin To Net: Unknown Pin: Pin U502-3
+Add Pin To Net: Unknown Pin: Pin U502-5
+Change Net Name : Old Net Name=Net200_2 New Net Name=NetR210_1
+Change Net Name : Old Net Name=Net200_3 New Net Name=NetR211_1
+Change Net Name : Old Net Name=Net200_5 New Net Name=NetR212_1
+Change Net Name : Old Net Name=Net200_7 New Net Name=NetR213_1
+Change Net Name : Old Net Name=Net200_9 New Net Name=NetR208_1
+Add Class Member: Failed to add class member : Component U500 TPS2115ADRBR
+Add Class Member: Failed to add class member : Component U501 MCP73832T-2DCI_OT
+Add Class Member: Failed to add class member : Component U502 AP7347DQ-33W5-7
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
