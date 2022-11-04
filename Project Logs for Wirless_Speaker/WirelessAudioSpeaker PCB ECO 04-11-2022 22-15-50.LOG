@@ -1,0 +1,57 @@
+Added Component: Designator=U500(SON65P300X300X100-9N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS2115ADRBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps2115adrbr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tps2115a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS2115ADRBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS2115ADRBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2115ADRBR?qs=g%2FrhRe7LVpSXEuLZV5FMOQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U501(SOT-23-5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP73832T-2DCI/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp73832t-2dciot/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP73832T-2DCI/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP73832T-2DCIOT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73832T-2DCI-OT?qs=yUQqVecv4quyMtCX903Btw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U502(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AP7347DQ-33W5-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ap7347dq-33w5-7/diodes-incorporated?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ad.componentsearchengine.com/partRequest.html?fs=0&partNumber=AP7347DQ-33W5-7&partID=15420390&lang=null&packageCategoryID=54&C=1&W=1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AP7347DQ-33W5-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-AP7347DQ-33W5-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP7347DQ-33W5-7?qs=XAiT9M5g4x%252B4DeOtxqD2uw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U500-2
+Added Pin To Net: NetName=GND Pin=U500-3
+Added Pin To Net: NetName=NetR500_2 Pin=U500-4
+Added Pin To Net: NetName=GND Pin=U500-5
+Added Pin To Net: NetName=VBAT_S Pin=U500-6
+Added Pin To Net: NetName=NetC503_2 Pin=U500-7
+Added Pin To Net: NetName=USB_5V Pin=U500-8
+Added Pin To Net: NetName=GND Pin=U500-9
+Added Pin To Net: NetName=GND Pin=U501-2
+Added Pin To Net: NetName=VBAT Pin=U501-3
+Added Pin To Net: NetName=USB_5V Pin=U501-4
+Added Pin To Net: NetName=NetR502_2 Pin=U501-5
+Added Pin To Net: NetName=NetC503_2 Pin=U502-1
+Added Pin To Net: NetName=GND Pin=U502-2
+Added Pin To Net: NetName=VBAT_S Pin=U502-3
+Added Pin To Net: NetName=3V3 Pin=U502-5
+Added Member To Class: ClassName=Power Member=Component U500 TPS2115ADRBR
+Added Member To Class: ClassName=Power Member=Component U501 MCP73832T-2DCI_OT
+Added Member To Class: ClassName=Power Member=Component U502 AP7347DQ-33W5-7
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU
