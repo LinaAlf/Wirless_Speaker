@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator= NewDesignator=S500
+Added Component: Designator=C500(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C500-1
+Added Pin To Net: NetName=3V3 Pin=C500-2
+Added Member To Class: ClassName=IO Member=Component C202 4.7uF
+Added Member To Class: ClassName=Power Member=Component C500 0.1uF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R102 100k
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU
+Added Rule: Name=Schematic Differential Pairs Routing
