@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Tim\Desktop\Advanced_PCB_design\PCB-Designs\Wirless_Speaker\PCB\WirelessAudioSpeaker.PcbDoc
-Date     : 28/11/2022
-Time     : 17:03:55
+PCB File : D:\BFH\PCB_Layout\WAS_Git\PCB\WirelessAudioSpeaker.PcbDoc
+Date     : 28.11.2022
+Time     : 17:55:10
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
    Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad AN400-GND(-2.895mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer 

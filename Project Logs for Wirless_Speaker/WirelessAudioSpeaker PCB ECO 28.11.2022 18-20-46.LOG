@@ -1,0 +1,82 @@
+Change Component Comment : Designator=C501 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=C502 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=C503 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=R204 Old Comment=1.2k New Comment=27E
+Change Component Comment : Designator=R205 Old Comment=1.2k New Comment=27E
+Change Component Comment : Designator=R206 Old Comment=1.2k New Comment=27E
+Change Component Comment : Designator=C200 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=C401 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=C406 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=C108 Old Comment=2.2uF New Comment=100nF
+Change Component Comment : Designator=R502 Old Comment=2K7 New Comment=27E
+Change Component Comment : Designator=R104 Old Comment=4.7k New Comment=27E
+Change Component Comment : Designator=R105 Old Comment=4.7k New Comment=27E
+Change Component Comment : Designator=R208 Old Comment=4.7k New Comment=27E
+Change Component Comment : Designator=C103 Old Comment=4.7pF New Comment=100nF
+Change Component Comment : Designator=C104 Old Comment=4.7pF New Comment=100nF
+Change Component Comment : Designator=C408 Old Comment=4.7pF New Comment=100nF
+Change Component Comment : Designator=C100 Old Comment=4.7uF New Comment=100nF
+Change Component Comment : Designator=C202 Old Comment=4.7uF New Comment=100nF
+Change Component Comment : Designator=C504 Old Comment=4.7uF New Comment=100nF
+Change Component Comment : Designator=C505 Old Comment=4.7uF New Comment=100nF
+Change Component Comment : Designator=R106 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R107 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R200 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R201 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R202 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R203 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R207 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R209 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R210 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R211 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R212 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R213 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=R501 Old Comment=10k New Comment=27E
+Change Component Comment : Designator=C405 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=R102 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=R103 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=R300 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=R302 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=R303 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=R304 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=R305 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=R503 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=R504 Old Comment=100k New Comment=27E
+Change Component Comment : Designator=C400 Old Comment=100pF New Comment=100nF
+Change Component Comment : Designator=R500 Old Comment=400 New Comment=27E
+Change Component Comment : Designator=R301 Old Comment=643k New Comment=27E
+Change Component Designator: OldDesignator= NewDesignator=S500
+Added Component: Designator=C500(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Component: Designator=J10(2waySolder_NO)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Added Component: Designator=J11(2waySolder_NO)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C500-1
+Added Pin To Net: NetName=3V3 Pin=C500-2
+Added Pin To Net: NetName=3V3 Pin=J10-1
+Added Pin To Net: NetName=A_Vcc Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=AGND Pin=J11-2
+Added Member To Class: ClassName=Power Member=Component C500 100nF
+Added Member To Class: ClassName=Power Member=Component J10 2 way net solder junction - Normally Open
+Added Member To Class: ClassName=Power Member=Component J11 2 way net solder junction - Normally Open
+Added Member To Class: ClassName=Power Member=Component S500 MLL1200S
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU
+Added Rule: Name=Schematic Differential Pairs Routing_2
