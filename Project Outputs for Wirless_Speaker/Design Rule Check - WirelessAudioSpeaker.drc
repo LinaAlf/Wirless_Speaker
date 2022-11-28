@@ -1,0 +1,110 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Tim\Desktop\Advanced_PCB_design\PCB-Designs\Wirless_Speaker\PCB\WirelessAudioSpeaker.PcbDoc
+Date     : 28/11/2022
+Time     : 17:03:55
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad AN400-GND(-2.895mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad AN400-GND(-5.094mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer 
+Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad AN400-GND(-2.895mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 50.027mm][Y = 65.177mm]
+   Violation between Short-Circuit Constraint: Between Pad AN400-GND(-5.094mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 47.828mm][Y = 65.177mm]
+   Violation between Short-Circuit Constraint: Between Pad X200-1(-4.641mm,16.613mm) on Top Layer And Track (-4.641mm,16.613mm)(-4.641mm,16.613mm) on Top Layer Location : [X = 48.282mm][Y = 42.724mm]
+Rule Violations :3
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad AN400-GND(-5.094mm,38.887mm) on Top Layer And Pad AN400-GND(-2.895mm,38.887mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (-6.62mm,36.47mm)(-6.601mm,36.47mm) on Top Layer And Pad AN400-GND(-5.094mm,38.887mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad AN401-3(0.557mm,37.338mm) on Top Layer And Pad AN401-1(3.507mm,37.338mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (0.076mm,34.775mm)(1.325mm,34.775mm) on Top Layer And Pad AN401-3(0.557mm,37.338mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C104-1(-19.775mm,26.2mm) on Top Layer [Unplated] And Via (-18.925mm,26.225mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net NetU100_17 Between Via (-10.85mm,25.1mm) from Top Layer to Bottom Layer And Pad U400-40(5.825mm,27.3mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (2.475mm,23.925mm) from Top Layer to Bottom Layer And Pad U400-49(2.6mm,28.55mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Track (-4.641mm,16.613mm)(-4.641mm,16.613mm) on Top Layer Dead Copper - Net Not Assigned.
+Rule Violations :8
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.175mm) (Max=20mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (-12.025mm,19.375mm)(-9.275mm,16.625mm) on Bottom Layer 
+   Violation between Net Antennae: Track (5.825mm,27.3mm)(8.2mm,27.3mm) on Top Layer 
+   Violation between Net Antennae: Via (-18.925mm,26.225mm) from Top Layer to Bottom Layer 
+Rule Violations :3
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (0.225mm < 0.254mm) Between Board Edge And Pad -0(2.875mm,0.6mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (0.225mm < 0.254mm) Between Board Edge And Pad -0(-4.625mm,0.6mm) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "C102" (-35.191mm,34.938mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "DS201" (12.915mm,41.656mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "DS202" (14.362mm,41.682mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "DS203" (15.759mm,41.682mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "R200" (17.309mm,38.049mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "R201" (23.036mm,31.145mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "R202" (21.246mm,25.172mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "R203" (20.052mm,19.076mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "R204" (12.915mm,39.446mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "R205" (14.388mm,39.446mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Text "R206" (15.785mm,39.446mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.229mm < 0.254mm) Between Board Edge And Text "S202" (21.45mm,23.59mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (-1.45mm,-0.1mm)(-1.45mm,0.175mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.007mm < 0.254mm) Between Board Edge And Track (17.567mm,12.464mm)(20.112mm,11.166mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.129mm < 0.254mm) Between Board Edge And Track (17.75mm,35.234mm)(20.296mm,36.531mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.078mm < 0.254mm) Between Board Edge And Track (19.988mm,17.216mm)(22.534mm,15.919mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (-2.675mm,-0.1mm)(-1.45mm,-0.1mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (-2.675mm,-0.1mm)(-2.675mm,0.2mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.098mm < 0.254mm) Between Board Edge And Track (-2.675mm,0.2mm)(-2.675mm,0.225mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.007mm < 0.254mm) Between Board Edge And Track (20.112mm,11.166mm)(20.642mm,12.206mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.078mm < 0.254mm) Between Board Edge And Track (20.172mm,30.481mm)(22.717mm,31.778mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.129mm < 0.254mm) Between Board Edge And Track (20.296mm,36.531mm)(22.188mm,32.818mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.094mm < 0.254mm) Between Board Edge And Track (20.305mm,18.177mm)(23.119mm,17.68mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.105mm < 0.254mm) Between Board Edge And Track (20.401mm,29.653mm)(23.23mm,30.05mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.078mm < 0.254mm) Between Board Edge And Track (20.642mm,12.206mm)(22.534mm,15.919mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (20.926mm,12.763mm)(21.305mm,12.57mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.149mm < 0.254mm) Between Board Edge And Track (21.143mm,24.371mm)(23.973mm,24.768mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (21.166mm,34.823mm)(21.545mm,35.016mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.062mm < 0.254mm) Between Board Edge And Track (21.231mm,23.43mm)(24.045mm,22.933mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (21.305mm,12.57mm)(22.042mm,14.018mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (21.545mm,35.016mm)(22.282mm,33.568mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (21.664mm,14.211mm)(22.042mm,14.018mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (21.904mm,33.375mm)(22.282mm,33.568mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.078mm < 0.254mm) Between Board Edge And Track (22.188mm,32.818mm)(22.717mm,31.778mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.094mm < 0.254mm) Between Board Edge And Track (23.119mm,17.68mm)(23.321mm,18.83mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.105mm < 0.254mm) Between Board Edge And Track (23.23mm,30.05mm)(23.81mm,25.924mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.062mm < 0.254mm) Between Board Edge And Track (23.321mm,18.83mm)(24.045mm,22.933mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (23.43mm,19.445mm)(23.848mm,19.371mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (23.497mm,28.152mm)(23.918mm,28.211mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (23.712mm,21.046mm)(24.131mm,20.972mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (23.723mm,26.543mm)(24.144mm,26.602mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.149mm < 0.254mm) Between Board Edge And Track (23.81mm,25.924mm)(23.973mm,24.768mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (23.848mm,19.371mm)(24.131mm,20.972mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (23.918mm,28.211mm)(24.144mm,26.602mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (-26.875mm,19.625mm)(-25.575mm,19.625mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (-26.875mm,19.625mm)(-26.875mm,27.625mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.254mm) Between Board Edge And Track (-26.875mm,27.625mm)(-25.575mm,27.625mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.123mm < 0.254mm) Between Board Edge And Track (-3.825mm,0.225mm)(2.075mm,0.225mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.231mm < 0.254mm) Between Board Edge And Track (5.499mm,3.78mm)(6.581mm,0.451mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.231mm < 0.254mm) Between Board Edge And Track (6.581mm,0.451mm)(9.101mm,1.27mm) on Top Overlay 
+Rule Violations :52
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 68
+Waived Violations : 0
+Time Elapsed        : 00:00:01

@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator= NewDesignator=S500
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found 2waySolder_NO
+Add Component: Footprint Not Found 2waySolder_NO
+Add Pin To Net: Unknown Pin: Pin C500-1
+Add Pin To Net: Unknown Pin: Pin C500-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Added Member To Class: ClassName=SoC Member=Component C406 1uF
+Add Class Member: Failed to add class member : Component C500 0.1uF
+Add Class Member: Failed to add class member : Component J1 2 way net solder junction - Normally Open
+Add Class Member: Failed to add class member : Component J2 2 way net solder junction - Normally Open
+Added Member To Class: ClassName=Power Member=Component S500 MLL1200S
+Added Member To Class: ClassName=SoC Member=Component U400 U-ESP32-PICO-V3
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU
