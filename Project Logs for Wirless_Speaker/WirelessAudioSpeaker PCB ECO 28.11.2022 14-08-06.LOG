@@ -1,0 +1,44 @@
+Change Component Designator: OldDesignator= NewDesignator=S500
+Added Component: Designator=C500(C-0603)
+Add component (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part No."; Value = "GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order-Code"; Value = "81-GRM18..."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C300-1
+Added Pin To Net: NetName=3V3 Pin=C300-2
+Added Pin To Net: NetName=3V3 Pin=C301-1
+Added Pin To Net: NetName=GND Pin=C301-2
+Added Pin To Net: NetName=GND Pin=C302-1
+Added Pin To Net: NetName=3V3 Pin=C302-2
+Added Pin To Net: NetName=GND Pin=C500-1
+Added Pin To Net: NetName=3V3 Pin=C500-2
+Added Pin To Net: NetName=GND Pin=MK300-3
+Added Pin To Net: NetName=3V3 Pin=MK300-5
+Added Pin To Net: NetName=3V3 Pin=R300-2
+Added Pin To Net: NetName=3V3 Pin=R301-2
+Added Pin To Net: NetName=GND Pin=R302-1
+Added Pin To Net: NetName=3V3 Pin=R303-2
+Added Pin To Net: NetName=GND Pin=R304-1
+Added Pin To Net: NetName=GND Pin=R305-1
+Added Pin To Net: NetName=GND Pin=U300-3
+Added Pin To Net: NetName=3V3 Pin=U300-7
+Added Pin To Net: NetName=3V3 Pin=U300-8
+Added Pin To Net: NetName=GND Pin=U300-11
+Added Pin To Net: NetName=GND Pin=U300-15
+Added Pin To Net: NetName=GND Pin=U300-THERMAL
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Added Member To Class: ClassName=Power Member=Component C500 0.1uF
+Added Member To Class: ClassName=Power Member=Component S500 MLL1200S
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU
+Added Rule: Name=Schematic Differential Pairs Routing_1
