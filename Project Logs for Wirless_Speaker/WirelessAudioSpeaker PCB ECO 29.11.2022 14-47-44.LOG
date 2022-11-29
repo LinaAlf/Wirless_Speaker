@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=3 NewDesignator=U502
+Change Net Name : Old Net Name=NetC103_2 New Net Name=DM
+Change Net Name : Old Net Name=NetC104_2 New Net Name=DP
+Change Net Name : Old Net Name=NetMK300_1 New Net Name=I2S_LRCLK
+Change Net Name : Old Net Name=NetMK300_4 New Net Name=I2S_BCLK
+Change Net Name : Old Net Name=NetMK300_6 New Net Name=I2S_DOUT
+Change Net Name : Old Net Name=NetR100_2 New Net Name=USBDM
+Change Net Name : Old Net Name=NetR101_2 New Net Name=USBDP
+Change Net Name : Old Net Name=NetR104_1 New Net Name=SCL
+Change Net Name : Old Net Name=NetR105_1 New Net Name=SDA
+Change Net Name : Old Net Name=NetR210_1 New Net Name=CS
+Change Net Name : Old Net Name=NetR211_1 New Net Name=MOSI
+Change Net Name : Old Net Name=NetR212_1 New Net Name=CLK
+Change Net Name : Old Net Name=NetR213_1 New Net Name=MISO
+Change Net Name : Old Net Name=NetSpeaker_1 New Net Name=OUTP
+Change Net Name : Old Net Name=NetSpeaker_2 New Net Name=OUTN
+Change Net Name : Old Net Name=NetU100_1 New Net Name=RXD
+Change Net Name : Old Net Name=NetU100_17 New Net Name=TXD
+Added Member To Class: ClassName=IO Member=Component S204 B3U-100P
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU
