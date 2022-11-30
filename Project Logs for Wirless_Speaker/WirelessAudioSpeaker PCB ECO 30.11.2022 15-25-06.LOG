@@ -1,0 +1,34 @@
+Added Pin To Net: NetName=USB_5V Pin=C100-2
+Added Pin To Net: NetName=USB_5V Pin=C101-2
+Added Pin To Net: NetName=USB_5V Pin=U100-12
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C100 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C101 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C102 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C103 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C104 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C105 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C106 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C107 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C108 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component C109 100nF
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component F100 SF-0603F050-2
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component Q100 BC847BS
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R100 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R101 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R102 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R103 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R104 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R105 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R106 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component R107 27E
+Added Member To Class: ClassName=Power Member=Component R503 27E
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component U100 FT231XQ-R
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component U101 ICM-40627
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component U103 ESDA7P120-1U1M
+Added Member To Class: ClassName=SoC Member=Component U400 U-ESP32-PICO-V3
+Added Member To Class: ClassName=U_USB_UART_IMU Member=Component X100 X-MicroUSB
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU

@@ -1,0 +1,19 @@
+Change Component DesignItemId : Designator=C408 Old DesignItemId=C-SMD-0603 New DesignItemId=C-SMD-0402
+Change Component Footprint: Designator=C408 Old Footprint=C-0603 New Footprint=C-0402
+Change component parameters: Designator = "C408" ("C408"); Footprint = "C-0603"; UniqueID = "\JCTMNOZT\CCHDRPNY" ("\JCTMNOZT\CCHDRPNY")
+Change component parameters (AddParameter): Name = "Added"; Value = "28.08.2018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip Multilayer Ceramic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.ch/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part No."; Value = "GRM02*"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notice"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Order-Code"; Value = "81-GRM02..."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price (CHF)"; Value = "0.12"; VariantName = "[No Variations]"
+Added Room: Name=Analog
+Added Room: Name=IO
+Added Room: Name=Power
+Added Room: Name=SoC
+Added Room: Name=U_USB_UART_IMU

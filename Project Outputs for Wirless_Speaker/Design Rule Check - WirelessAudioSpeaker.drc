@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Tim\Documents\Studium\3.Semester\Advanced_PCB_design\PCB-Designs\Wirless_Speaker\PCB\WirelessAudioSpeaker.PcbDoc
-Date     : 30/11/2022
-Time     : 13:10:43
+PCB File : D:\BFH\PCB_Layout\WAS_Git\PCB\WirelessAudioSpeaker.PcbDoc
+Date     : 30.11.2022
+Time     : 14:52:01
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
    Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad AN400-GND(-2.895mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer 
@@ -22,8 +22,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :2
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (1.325mm,33.375mm)(1.35mm,33.4mm) on Top Layer And Pad C405-2(2.6mm,33.4mm) on Top Layer [Unplated] 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -94,6 +93,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 57
+Violations Detected : 56
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
