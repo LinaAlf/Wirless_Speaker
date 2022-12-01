@@ -1,20 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : D:\BFH\PCB_Layout\WAS_Git\PCB\WirelessAudioSpeaker.PcbDoc
-Date     : 30.11.2022
-Time     : 14:52:01
+Date     : 01.12.2022
+Time     : 15:00:17
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
    Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad AN400-GND(-2.895mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer 
    Violation between Clearance Constraint: (Collision < 0.1mm) Between Pad AN400-GND(-5.094mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer 
-   Violation between Clearance Constraint: (0mm < 0.1mm) Between Region (0 hole(s)) Top Layer And Track (-2.703mm,38.887mm)(-2.6mm,38.784mm) on Top Layer 
-   Violation between Clearance Constraint: (0mm < 0.1mm) Between Region (0 hole(s)) Top Layer And Track (-2.895mm,38.887mm)(-2.703mm,38.887mm) on Top Layer 
-   Violation between Clearance Constraint: (0mm < 0.1mm) Between Region (0 hole(s)) Top Layer And Track (-3.047mm,38.887mm)(-2.895mm,38.887mm) on Top Layer 
-   Violation between Clearance Constraint: (0mm < 0.1mm) Between Region (0 hole(s)) Top Layer And Track (-3.15mm,38.784mm)(-3.047mm,38.887mm) on Top Layer 
-   Violation between Clearance Constraint: (0mm < 0.1mm) Between Region (0 hole(s)) Top Layer And Track (-4.928mm,38.887mm)(-4.825mm,38.784mm) on Top Layer 
-   Violation between Clearance Constraint: (0mm < 0.1mm) Between Region (0 hole(s)) Top Layer And Track (-5.094mm,38.887mm)(-4.928mm,38.887mm) on Top Layer 
-   Violation between Clearance Constraint: (0mm < 0.1mm) Between Region (0 hole(s)) Top Layer And Track (-5.272mm,38.887mm)(-5.094mm,38.887mm) on Top Layer 
-   Violation between Clearance Constraint: (0mm < 0.1mm) Between Region (0 hole(s)) Top Layer And Track (-5.375mm,38.784mm)(-5.272mm,38.887mm) on Top Layer 
-Rule Violations :10
+Rule Violations :2
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
    Violation between Short-Circuit Constraint: Between Pad AN400-GND(-2.895mm,38.887mm) on Top Layer And Region (0 hole(s)) Top Layer Location : [X = 50.027mm][Y = 65.177mm]
@@ -37,11 +29,7 @@ Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6mm) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (1.75mm,29.475mm) from Top Layer to Bottom Layer And Via (1.75mm,29.475mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (2.6mm,30.225mm) from Top Layer to Bottom Layer And Via (2.6mm,30.225mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (2.6mm,30.225mm) from Top Layer to Bottom Layer And Via (2.6mm,30.225mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.254mm) Between Via (2.6mm,30.225mm) from Top Layer to Bottom Layer And Via (2.6mm,30.225mm) from Top Layer to Bottom Layer Pad/Via Touching Holes
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -93,6 +81,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 56
+Violations Detected : 44
 Waived Violations : 0
 Time Elapsed        : 00:00:02
